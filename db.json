@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "firstname": "Michael",
+      "lastname": "Jordan",
+      "email": "mp@example.com",
+      "department": "Athletic Trainer"
+    },
+    {
+      "id": 1002,
+      "firstname": "Steve",
+      "lastname": "Buscemi",
+      "email": "sb@example.com",
+      "department": "Human Resources"
+    },
+    {
+      "id": "1003",
+      "firstname": "Robert",
+      "lastname": "Downey",
+      "email": "rd@example.com",
+      "department": "Actor"
+    },
+    {
+      "id": "1000",
+      "firstname": "Youil",
+      "lastname": "Aushana",
+      "email": "ya@example.com",
+      "department": "Software"
+    },
+    {
+      "id": "1005",
+      "firstname": "Brian",
+      "lastname": "Johnson",
+      "email": "bj@example.com",
+      "department": "Electrical"
+    }
+  ]
+}
